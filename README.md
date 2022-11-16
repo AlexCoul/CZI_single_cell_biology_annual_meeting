@@ -13,6 +13,20 @@ Tissue spatial network reconstruction: [tysserand](github.com/VeraPancaldiLab/ty
 Spatial network analysis: [mosna](https://github.com/AlexCoul/mosna)  
 
 
+## High NA Oblique Plane (light-sheet) Microscope: Snouty
+
+![](assets/Current_Snouty_setup.png)
+*Snouty setup*
+
+![](assets/big_tissue_stage_scanning.png)
+*Big tissue stage scanning*
+
+![](assets/Lung_FISH.png)
+*3D localization of a 14-plex RNA in 3 mm x 1 cm x 60-micron thick unexpanded human lung tissue, scale bars 250 & 40 µm*
+
+![](assets/Lung_FISH_zoom.png)
+*Lung RNA FISH zoomed, scale bar 40 µm*
+
 ## References
 
 ### RNA-FISH
