@@ -16,10 +16,10 @@ Spatial network analysis: [mosna](https://github.com/AlexCoul/mosna)
 ## High NA Oblique Plane (light-sheet) Microscope: Snouty
 
 ![](assets/Current_Snouty_setup.png)
-*Snouty setup*
+*Snouty setup. Blue box: microfluidic chamber where the sample is imaged by the primary objective. Red box: the secondary objective creates a virtual image of the area observed by the primary objective. This virtual copy is imaged again by the tertiary objective with a tilt.*
 
 ![](assets/big_tissue_stage_scanning.png)
-*Big tissue stage scanning*
+*Big tissue stage scanning, showing polyA probes in a mouse brain sample.*
 
 ![](assets/Lung_FISH.png)
 *3D localization of a 14-plex RNA in 3 mm x 1 cm x 60-micron thick unexpanded human lung tissue, scale bars 250 & 40 µm*
